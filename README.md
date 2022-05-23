@@ -4,7 +4,7 @@
   ### [Description](#description)
   ### [Links](#links)
   ### [Technology's Used](#technologys-used)
-  ### [ScreenShots](#screenshots)
+
 
  
 
@@ -20,6 +20,3 @@ Link to Github Repo: <a href='https://github.com/AlexUrielContreras/ecomm-backen
  * SQL
  * Express
 
-## ScreenShots
-Invoke the app
-<img src='' />
